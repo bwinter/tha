@@ -1,3 +1,4 @@
+# Checklist to be used by facilitator for THA
 Create a github issue with this as the content and a title including the team's name.
 
 - [ ] Introduction
@@ -26,3 +27,10 @@ Create a github issue with this as the content and a title including the team's 
   - [ ] Repeat with all of the other metrics, choosing the next person in line to begin discussions. Take 10 or 15 minute breaks periodically for refreshments and restrooms.
 - [ ] Repeat the voting and discussion for the retrospective “Team Health Assessment” metric.
 - [ ] Congratulate yourselves!
+
+
+---
+For secondaries / shadows
+- [ ] Summarize discussion
+- [ ] Help keep track of time
+- [ ] Counting votes
