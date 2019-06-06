@@ -16,6 +16,7 @@ Create a github issue with this as the content and a title including the team's 
   - [ ] Specifically, mention that everyone will interpret the metrics differently and they should interpret them from their own perspective.
 - [ ] Establish [Ground Rules](https://docs.google.com/document/d/18Q9uand09WHwiWZO21A9rD6S-3953CqP0v-xEj-xSCg/edit#heading=h.3f96t1973epx) and read the [Psychological Safety script](https://docs.google.com/document/d/18Q9uand09WHwiWZO21A9rD6S-3953CqP0v-xEj-xSCg/edit#heading=h.skek14hxa5vk)
   - [ ] Ensure everyone agrees that this is a safe space to share their feelings, and that criticism will not cause retaliation
+- [ ] Questions?
 - [ ] Explain Voting Round (Read checklist below once.)
 - [ ] Deep breath
 - [ ] Voting Round
@@ -41,6 +42,7 @@ Create a github issue with this as the content and a title including the team's 
   - Take 10 or 15 minute breaks periodically for refreshments and restrooms.
 - [ ] Repeat the voting and discussion for the retrospective “Team Health Assessment” metric.
 - [ ] Congratulate yourselves! and thank everyone for their input.
+- [ ] Questions?
 
 # TODO: add some section about how to leverage the THA into growth.
 # TODO: add a section at end to open the space for questions. e.g. how are notes used?
