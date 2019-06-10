@@ -23,10 +23,10 @@ Create a github issue with this as the content and a title including the team's 
   - Read aloud the name of the metric
   - Read aloud the Happy and Crappy statements
   - Ensure everyone understands the meaning of the statements
-  - Vote! 
+  - Vote on your paper! (Silently)
   - Have each member record how they voted (it’s easy to forget!), e.g. writing the metric name on green/yellow/red post-its
-  - Record the team votes on the scorecard
   - Repeat for the rest of the metrics
+- [ ] Record the team votes on the scorecard
 - [ ] Sequence the Metrics
 - [ ] Deep breath
 - [ ] Have team go on a 10-minute break. 
@@ -45,10 +45,10 @@ Create a github issue with this as the content and a title including the team's 
 - [ ] Questions?
 
 # TODO: add some section about how to leverage the THA into growth.
-# TODO: add a section at end to open the space for questions. e.g. how are notes used?
 
 ---
 - [ ] Mini Retro: Liked, Learned, Lacked, Longed for
+- [ ] Show them the [Optional metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700)
 
 ---
 For secondaries / shadows
