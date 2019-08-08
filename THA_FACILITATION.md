@@ -13,8 +13,8 @@
   - [ ] (Optionally) Set up a remote video conference for the meeting if needed.
 
 # Prior to THA
-- [ ] Create Github Issue using the [Pre-Meeting checklist](meetings/THA_PRE_MEETING.md)
-- [ ] Create Github Issue using the [THA checklist](meetings/THA_MEETING.md)
+- [ ] Create Github Issue using the [Pre-Meeting checklist](THA_PRE_MEETING.md)
+- [ ] Create Github Issue using the [THA checklist](THA_MEETING.md)
 - [ ] Schedule Pre-Meeting for two days before the THA with PM & Anchor.
 - [ ] Schedule THA with entire team.
 
