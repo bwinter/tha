@@ -20,3 +20,6 @@
 
 # After THA
 - [ ] Create reminder to send [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScIcb7_zfPcEST77IDlpmwuBN9WVwanyKSTDyuCDDtPgVyrXQ/viewform) two days after event.
+
+# Notes
+- Even if all green, it reenforces positive activities.
