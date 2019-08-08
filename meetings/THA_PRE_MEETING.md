@@ -11,7 +11,7 @@ Create a github issue and include the team name and date.
 
 - [ ] Do you want a leadership representative to participate, shadow, or skip the exercise?
 
-- Know composition of team / who has been in a previous THA, how long have they been on the team? Basically pre, intro. Names are probably not even important here.
+- [ ] Know composition of team / who has been in a previous THA, how long have they been on the team? Basically pre, intro. Names are probably not even important here.
 - [ ] Are there any particularly talkative or quiet folks?
 
 - [ ] What is your understanding of psychological safety on the team currently?
