@@ -1,5 +1,5 @@
 
-# One wee before THA
+# One week before THA
 - [ ] Collect or have someone else collect colored Post-Its
 - [ ] Collect or have someone else collect pens
 
@@ -22,4 +22,4 @@
 - [ ] Create reminder to send [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScIcb7_zfPcEST77IDlpmwuBN9WVwanyKSTDyuCDDtPgVyrXQ/viewform) two days after event.
 
 # Notes
-- Even if all green, it reenforces positive activities.
+- Even if all green, it reinforces positive activities.
