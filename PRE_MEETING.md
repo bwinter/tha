@@ -14,6 +14,7 @@ As a primer for the prior: the goal of a THA is to have a quality, pointed discu
 - [ ] Are there are any changes from the last THA you would like to see?
 
 - [ ] Do you want a leadership representative to participate, shadow, or skip the exercise?
+    - LL as default
 
 - [ ] Know composition of team / who has been in a previous THA, how long have they been on the team? Basically pre, intro. Names are probably not even important here.
 - [ ] Are there any particularly talkative or quiet folks?
