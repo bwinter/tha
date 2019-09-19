@@ -16,7 +16,10 @@ Create a github issue with this as the content and a title including the team's 
     - Optionally pronouns. 
   - [ ] Introduce yourself (name, job, team, give pronouns)
     - Make a list of names. (for coordinating round-robin)
-    - Full, remote: Ask folks to write name tags or update their names in the remote conference so you can tell who is who.
+    - Full, remote: 
+        - Ask folks to write name tags or update their names in the remote conference so you can tell who is who.
+        - When remote close the Slacks and try not to use tools.
+        - When doing other things, turn camera off
     - Something not interesting about self.
     - Draw Toast creation process (less THA more generic)
     
