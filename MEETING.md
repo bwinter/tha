@@ -16,7 +16,9 @@ Create a github issue with this as the content and a title including the team's 
     - Optionally pronouns. 
   - [ ] Introduce yourself (name, job, team, give pronouns)
     - Make a list of names. (for coordinating round-robin)
-    - Name on Zoom
+    - Full, remote: Ask folks to write name tags or update their names in the remote conference so you can tell who is who.
+    - Something not interesting about self.
+    - Draw Toast creation process (less THA more generic)
     
   - [ ] Give a quick explanation of the exercise format as a refresher
     - THA is very much like a retrospective
@@ -26,6 +28,7 @@ Create a github issue with this as the content and a title including the team's 
     - This is a discussion / dialogue not a test. We aren’t here to generate a green score card. We are here to identify what we discover to be pain points - with the long term goal of the team overcoming them.
     - “THA can be though of as a phyc safety tune-up.”
     - Round-robin; so, that everyone has space for their voice.
+    - Roman-vote / Post-it colors / silent voting on card followed by tally.
     - Silent voting, taking notes, w/ vote.
         - followed by tally.
     - It is okay for everyone to interpret metrics differently.
