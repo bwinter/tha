@@ -27,4 +27,4 @@ As a primer for the prior: the goal of a THA is to have a quality, pointed discu
 
 - [ ] Ask the team representatives to forward the [THA Getting Started document](https://docs.google.com/document/d/1h34W05UgqHF935SNWxZK8hoSBYK-w3-wBwSPPr1FpD8/edit) to their team to read before the THA.
 
-- [ ] Review the [recommended metrics]( ) with the team representatives and work with them to customize them if need be.
+- [ ] Review the [recommended metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700) with the team representatives and work with them to customize them if need be.
