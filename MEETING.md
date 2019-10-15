@@ -65,18 +65,18 @@ Things to keep in mind:
 
 - [ ] Explain Voting Round (Read below checklist, also use it to drive the voting.)
 - [ ] Voting Round
-  - [ ] We will be using multiple metrics designed to drive useful discussions.
-  - [ ] We will read the metric and its *positive* and *negative* statements. 
-  - [ ] We will take a moment to ensure everyone understands the meaning of the statements.
-    - We will give 30 seconds to reflect on how each metric and accompanying statements make you feel.
-    - Raise your hand up if you need more time or have a question.
-    - These questions are intentionally wishy-washy, try to “lean into them”.
-    - It is okay for everyone to interpret metrics differently.
-    - To help retain novel thoughts, consider creating some notes.
-    - Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
-        - Use colored post-its.
-  - We will repeat this process for the rest of the metrics
-  - After all metrics are done, we will take a deep breath (to help stay relaxed) and then take a short break.
+    - [ ] We will be using multiple metrics designed to drive useful discussions.
+    - [ ] We will read the metric and its *positive* and *negative* statements. 
+    - [ ] We will take a moment to ensure everyone understands the meaning of the statements.
+        - We will give 30 seconds to reflect on how each metric and accompanying statements make you feel.
+        - Raise your hand up if you need more time or have a question.
+        - These questions are intentionally wishy-washy, try to “lean into them”.
+        - It is okay for everyone to interpret metrics differently.
+        - To help retain novel thoughts, consider creating some notes.
+        - Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
+            - Use colored post-its.
+    - We will repeat this process for the rest of the metrics
+    - After all metrics are done, we will take a deep breath (to help stay relaxed) and then take a short break.
 
 - [ ] Any questions about what has been said so far?
 
@@ -87,20 +87,20 @@ Things to keep in mind:
 - [ ] First deep breath and then 10-minute break.
         
 - [ ] Explain Discussion Round
-  - I will read each metric and accompanying statements aloud again.
-  - We will iterate through the group members, giving every person the opportunity to speak individually about how they felt on a particular topic.
-  - During the discussion round, try not to say “pass”. In stead restate what you agree with. You may say it a different way that provides new insight. Or uncover a misunderstanding about the topic as it gives others a chance to say “that’s not quite what I meant”.
-  - Once each person has spoken, there will be a final opportunity for any other discussions on the topic. 
-    - We will ensure there is not a disproportionate amount of time given to any one person (unless of course it’s warranted). 
-  - (optional) Get a read on whether the team feels like this is getting better (trending up) or getting worse (trending down). Record on scorecard.
-  - Repeat with all of the other metrics
-    - Choosing the next person in line to begin discussions.
-  - TODO: explain how to use vote first technique
+    - I will read each metric and accompanying statements aloud again.
+    - We will iterate through the group members, giving every person the opportunity to speak individually about how they felt on a particular topic.
+    - During the discussion round, try not to say “pass”. In stead restate what you agree with. You may say it a different way that provides new insight. Or uncover a misunderstanding about the topic as it gives others a chance to say “that’s not quite what I meant”.
+    - Once each person has spoken, there will be a final opportunity for any other discussions on the topic. 
+        - We will ensure there is not a disproportionate amount of time given to any one person (unless of course it’s warranted). 
+    - (optional) Get a read on whether the team feels like this is getting better (trending up) or getting worse (trending down). Record on scorecard.
+    - Repeat with all of the other metrics
+        - Choosing the next person in line to begin discussions.
+    - TODO: explain how to use vote first technique
   
 - [ ] Any questions about what has been said so far?
 
 - [ ] Discussion Round
-  - Take 10 or 15 minute breaks periodically for refreshments, restrooms and deep breaths.
+    - Take 10 or 15 minute breaks periodically for refreshments, restrooms and deep breaths.
   
 - [ ] Congratulate everyone and thank them for all their input. This can be a very draining meeting.
   
