@@ -17,6 +17,9 @@ Things to keep in mind:
         - Pronouns (but don't force it)
         - [Optional] Something not interesting about self. (to break ice if needed)
         - [Optional] Draw Toast creation process. (helps demonstrate two taco problem)
+    - If, not remote:
+        - Ask folks to write name cards.
+        - Possibly put people on white board around virtual table.
     - [Optional] If fully, remote: 
         - Ask folks to write name tags or update their names in the remote conference so you can tell who is who.
         - Ask folks to close Slack and other messaging tools. (Qualify with common exceptions.)
