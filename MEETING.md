@@ -57,7 +57,7 @@ Things to keep in mind:
     - (We will make sure there is an owner who will make sure the item gets stored somewhere.)
 - [Optional] Tiny retro at end to help the facilitator improve.
 
-### Ground Rules [1]:
+### Ground Rules:
 - The Team Health Assessment only works if we collectively establish this as a space with “psychological safety.” This means that we agree that there will be no retaliation for things discussed, and team members will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes.
 - During discussion, everyone should try their best to speak using I/Me statements, and should minimize their references to other people’s thoughts and actions. And finally, we all agree to the fundamental rule of retrospectives: we believe that everyone has performed to the best of their abilities with the information they had.”
 - Avoid minimizing team mate's statements.
