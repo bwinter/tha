@@ -21,11 +21,12 @@ Things to keep in mind:
 - Discussion
 
 ### Introductions
-- [ ] Introduce yourself (name, pronouns, team, title)
+- [ ] Facilitator introductions (name, pronouns, team, title, tha history)
 - [ ] Introductions (make a list of names to help coordinate round-robin discussion)
     - Name (please correct my pronunciation if I screw it up)
     - Role on team
     - Pronouns (but don't force it)
+    - THA
     - [Optional] Something not interesting about self. (to break ice if needed)
     - [Optional] Draw Toast creation process. (helps demonstrate two taco problem)
 - If, not remote:
