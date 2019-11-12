@@ -1,7 +1,10 @@
 # Checklist to be used by facilitator during THA
 
-This doc borrows on a common pattern where one creates a github issue using a template. Then fills in the check boxes on that specific issue to help track progress.
-- Note: These are general suggestions, feel free to add or drop them as necessary.
+This doc borrows on a common pattern where you creates a github Issue using this template. Then, during the facilitation, you check off the check boxes to help you track progress.
+Considerations: 
+- These are general suggestions, feel free to add or drop them as necessary.
+- This is in beta form so there are still some implicit things I "understand" but haven't made explicitly clear. Apologies!
+- This is a living document, please make improvements!
 
 Things to keep in mind:
 - [ ] Put Streatchly on break
