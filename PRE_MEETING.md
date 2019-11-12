@@ -1,4 +1,4 @@
-# Short blurlb for calendar invite.
+# Short blurb for calendar invite.
 This meeting is to ensure the team representatives understand the exercise and its value, and that the facilitator understands the existing team dynamics.
 
 As a primer for the prior: the goal of a THA is to have a quality, pointed discussion with your entire team about systemic topics related to team health. It is not populate the THA scorecard or gloss over issues.
