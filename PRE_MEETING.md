@@ -1,3 +1,10 @@
+# NOTES:
+
+TODO: Find a good place for this.
+- Review team THA
+- Remember to add a zoom to the calendar invite.
+- Spend a moment to study team member names.
+
 # Short blurb for calendar invite.
 This meeting is to ensure the team representatives understand the exercise and its value, and that the facilitator understands the existing team dynamics.
 
@@ -28,3 +35,5 @@ As a primer for the prior: the goal of a THA is to have a quality, pointed discu
 - [ ] Ask the team representatives to forward the [THA Getting Started document](https://docs.google.com/document/d/1h34W05UgqHF935SNWxZK8hoSBYK-w3-wBwSPPr1FpD8/edit) to their team to read before the THA.
 
 - [ ] Review the [recommended metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700) with the team representatives and work with them to customize them if need be.
+
+- [ ] Meeting space? (Conference / Remote?) TODO: Find a place for this.
