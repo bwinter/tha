@@ -8,29 +8,22 @@ quickly. Maybe outcomes need to get moved into here 🤔 -- maybe some things ju
 their 15 min of fame before fading.
 
 ----
-Search for “every day tools” facilitation workshop at pivotal
-
-I think there might be a framework where we have a set of GREEN.md and RED.md docs that give suggestions for different colored teams. (Suggestions have a tendency to change quite a bit depending on this.)
-
-
-- Probing questions:
-    - “What is the feeling?”
-    - “Do you feel like you have the freedom to do X?”
-    - “Do you feel like you might suffer negative recourse by saying something?” 
-    - Get examples, specifics
-    - “Do you feel like you have space to suggest change?”
-    - Build comfort for being more specific.
-    
 - Interesting idea:
     - Have people put their ideas on post-its
     - Ask: “what things do we notice about these” “any patterns” (don’t do reflective listening)
 
+- Use your curiosity to drive Reflective Listening (aka ask questions).
+- Probing questions:
+    - “What is the feeling?”
+    - “Do you feel like you have the freedom to do X?”
+    - “Do you feel like you might suffer negative recourse by saying something?”
+    - “Do you feel like you have space to suggest change?”
+    - Get examples, specifics
+    - Build comfort for being more specific.
     
-Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
+Search for “every day tools” facilitation workshop at pivotal (TODO: I no longer understand this reference.)
 
-Remember all the positive experiences the team spoke about.
-
-Recognize the fact that making positive changes takes time, and even if it might feel overwhelming right now, if the team can make just one of these metrics better before the next assessment, it would be an amazing feat.
+I think there might be a framework where we have a set of GREEN.md and RED.md docs that give suggestions for different colored teams. (Suggestions have a tendency to change quite a bit depending on this.)
 
 #### Books I need to look into
 - Amy Edmondson
@@ -40,11 +33,15 @@ Recognize the fact that making positive changes takes time, and even if it might
 
 #### Psych Safety
 
+- I have heard the THA described as a psychological safety tune-up.
+
 - Find ways to build comfort up front, likely through vulnerability.
     - If there is an LL have them admit some mistake.
     - Possibly the same for other team member in position of power - e.g. anchor or pm
-- Ice breaker game - e.g. “Half animal” on a pos-it note that someone else finishes.
 
+- Breaking ice:
+    - Ice breaker game - e.g. “Half animal” on a pos-it note that someone else finishes.
+    - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
 
 #### Two Taco Problem
 I learned about this concept a from Fred Krone who learned it from a

@@ -1,35 +1,38 @@
+## Setup
+
 - [ ] Put Streatchly on break (and other notifications)
 - [ ] Silence phone
-
-- Use your curiosity to drive Reactive Listening (aka ask questions).
 
 - Techniques for managing participant names:
   - Remember, Zoom order can change.
   - Draw a virtual table and place people around it.
   - Pronouncing new names can be extremely hard, apologize in advance and push on.
-
-- Breaking ice:
-  - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
-
----- Have all reds hold up, all greens, all yellows.
+  
+- Have all reds hold up, all greens, all yellows.
 
 ## Meeting
 
 For secondaries / shadows
 - Summarize discussion
-- Help keep track of time (45 seconds for voting)
+- Help keep track of time (1.5 minutes for voting)
 - Counting votes
 - Parking lot / Action Items
 
-### Summary (TODO: Linksify)
-- Setup
+### Index (TODO: Linksify)
 - Introductions
 - Description
 - Ground Rules
 - Voting
 - Discussion
 
-### Setup
+### Introductions
+- Facilitator introductions (name, pronouns, team, title, THA history)
+- Introductions
+  - Name
+  - Pronouns
+  - Role
+  - What would you like to get out of the THA?
+
 - If, not remote:
   - Ask folks to write name cards.
 - If fully, remote:
@@ -37,59 +40,51 @@ For secondaries / shadows
   - Ask folks to close Slack and other messaging tools. (Qualify with common exceptions.)
   - Ask folks to turn off their camera when doing other things.
 
-### Introductions
-- Facilitator introductions (name, pronouns, team, title, THA history)
-- Introductions
-  - Name
-  - Pronouns
-  - Role on team
-  - What would you like to get out of the THA?
+- If at any time you have questions, raise your hand or use point of order sign.
 
 ### Description
-- THA is very much like a retrospective in that it gives the team an opportunity to iterate on its process.
+- THA is very much like a retrospective in that it gives the team an opportunity to iterate on its process and build empathy as a group.
     - It is different in that it generally runs quarterly and is usually a 2-3 hour meeting.
+
 - The goal of a THA is to have a high quality discussion not to solve problems.
-- We can identify some pain points - with the long term goal of the team overcoming them.
+    - We can identify some pain points - with the long term goal of the team overcoming them.
+
+- An anti-goals is getting all green, thinking of the THA as a test or attempting to populate a score card.
 
 - We are taking notes but we will keep them anonymous and will let you share them as you choose.
-  - Their primary purpose is to allow you to return to this document and understand why votes went the way they did.
+  - Their primary purpose is to allow you to return to this document and understand prior dynamics.
 
 - For the sake of time, if we get stuck on a topic, we will use a “Parking Lot” for items that the team can come back to after the THA.
-  - (We will make sure there is an owner who will make sure the item gets stored somewhere.)
+  - (We will make sure there is an owner who will ensure the item gets stored somewhere.)
 
 ### Format is roughly
 - I read a metric and, its *positive* and *negative* statements.
-- Then everyone will take a little time to reflect and vote on that metric.
-- We will do this for every metric.
-- After we vote on everything we will do a round-robin discuss.
+- Then everyone will takes a little time to reflect and then vote on that metric.
+- We do this for every metric.
+- After we vote on every metric we will do a round-robin discuss.
 
 ### Ground Rules:
-- Given the opportunity for empathy building; I have heard the THA described as a psychological safety tune-up.
+- Feeling comfortable to raise concerns is a sign of a healthy team.
 
-- Feeling comfortable raising concerns is a sign of a healthy team.
-
-- The Team Health Assessment only works if we collectively establish this as a space with “psychological safety.
+- The Team Health Assessment only works if we feel “psychologically safe."
   - This means that we agree that there will be no retaliation for things discussed, and team members will not be punished or humiliated for speaking up with ideas, questions, concerns or mistakes.
-- During discussion, everyone should try their best to speak using I/Me statements, and should minimize their references to other peoples' thoughts and actions.
+
+- Some things to help with that:
+    - During discussion, everyone should try their best to speak using I/Me statements, and should minimize their references to other peoples' thoughts and actions.
+    - Avoid minimizing team mate's statements.
+        - e.g. use “yes, and” language rather than “yes, but”s or “no”s.
+    - 1 voice at a time:
+    - Wiggly fingers or knocking for agreement.
+    - Thumbs up for praise.
+
 - And finally, we all agree to the fundamental rule of retrospectives: we believe that everyone has performed to the best of their abilities with the information they had.
 
-- Avoid minimizing team mate's statements.
-  - e.g. use “yes, and” language rather than “yes, but”s or “no”s.
-- 1 voice at a time:
-  - Wiggly fingers or knocking for agreement.
-  - Thumbs up for praise.
 - Use your active listening skills.
   - Be present.
   - Don’t bring devices.
 - Listen deeply enough to be changed.
 
-- [ ] Any questions about what has been said so far?
-
-- [ ] Take a deep breath before we dive into the voting round. (This one is for the facilitator)
-
-- Anti-goals:
-  - The goal is not to get all green. A THA is not a test. It is not about populating a score card.
-
+- [ ] Take a deep breath before we dive into the voting round.
 
 ### Voting:
 - [ ] Explain (Read checklist.)
@@ -142,6 +137,12 @@ For secondaries / shadows
 # TODO: add some section about how to leverage the THA into growth.
 
 ---
+Recognize the fact that making positive changes takes time, and even if it might feel overwhelming right now, if the team can make just one of these metrics better before the next assessment, it would be an amazing feat.
+
+Remember all the positive experiences the team spoke about.
+
+Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
+
 
 
 ### References
