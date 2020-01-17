@@ -65,19 +65,16 @@ For secondaries / shadows
 
 ### Ground Rules:
 - Feeling comfortable to raise concerns is a sign of a healthy team.
+ 
+- Recognize the fact that making positive changes takes time, and even if it might feel overwhelming right now, if the team can make just one of these metrics better before the next assessment, it would be an amazing feat.
 
-- Listen deeply enough to be changed.
-
-- The Team Health Assessment only works if we feel “psychologically safe."
-  - This means that we agree that there will be no retaliation for things discussed, and team members will not be punished or humiliated for speaking up with ideas, questions, concerns or mistakes.
-
-- Some things to help support psychological safety:
-    - During discussion, everyone should try their best to speak using I/Me statements, and should minimize their references to other peoples' thoughts and actions.
-    - Avoid minimizing team mate's statements.
-        - e.g. use “yes, and” language rather than “yes, but”s or “no”s.
+- The Team Health Assessment relies on a team having “psychological safety."
+    - Don't retaliate, punish or humiliate team members for speaking up with ideas, questions or concerns.
+    - Try your best to speak using I/Me statements, and minimize your references to other peoples' thoughts and actions.
+    - To avoid minimizing team mate's statements use “yes, and” language rather than “yes, but”s or “no”s.
     - 1 voice at a time:
-    - Wiggly fingers or knocking for agreement.
-    - Thumbs up for praise.
+        - Wiggly fingers or knocking for agreement.
+        - Thumbs up for praise.
     - Be present and use your active listening skills.
 
 - And finally, we all agree to the fundamental rule of retrospectives: we believe that everyone has performed to the best of their abilities with the information they had.
@@ -115,11 +112,9 @@ For secondaries / shadows
 ### Discussion:
 - [ ] Explain
     - I will read each metric and accompanying statements aloud again.
-    - We will iterate through the group members, giving every person the opportunity to speak individually about how they felt on a particular topic.
-    - During the discussion round, try not to say “pass”. In stead restate what you agree with. You may say it a different way that provides new insight. Or uncover a misunderstanding about the topic as it gives others a chance to say “that’s not quite what I meant”.
-    - Once each person has spoken, there will be a final opportunity for any other discussions on the topic.
-        - We will ensure there is not a disproportionate amount of time given to any one person (unless of course it’s warranted).
-    - (optional) Get a read on whether the team feels like this is getting better (trending up) or getting worse (trending down). Record on scorecard.
+    - We will then do a round robbin discussion for each metric.
+    - During the discussion round, try not to say “pass”. In stead restate what you agree with.
+        - You may say it a different way that provides new insight. Or uncover a misunderstanding about the topic as it gives others a chance to say “that’s not quite what I meant”.
     - Repeat with all of the other metrics
         - Choosing the next person in line to begin discussions.
     - TODO: explain how to use vote first technique
@@ -129,27 +124,13 @@ For secondaries / shadows
 - [ ] Discussion Round
     - Take 10 or 15 minute breaks periodically for refreshments, restrooms and deep breaths.
 
-- [ ] Congratulate everyone and thank them for all their input. This can be a very draining meeting.
+- [ ] Finish with a deep breath and congratulate everyone, thanking them for all their input.
 
 
 - [ ] Any other Questions? (e.g. how is the artifact used?)
-- [ ] (If time permits) Show the [Optional metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700)
-- [ ] Mini retro (Liked, Learned, Lacked, Longed for)
+- [ ] Does the team have interest in [Optional metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700)?
 
 # TODO: add some section about how to leverage the THA into growth.
 
----
-Recognize the fact that making positive changes takes time, and even if it might feel overwhelming right now, if the team can make just one of these metrics better before the next assessment, it would be an amazing feat.
-
-Remember all the positive experiences the team spoke about.
-
-Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
-
-
-
 ### References
 [1]: here [Ground Rules](https://docs.google.com/document/d/18Q9uand09WHwiWZO21A9rD6S-3953CqP0v-xEj-xSCg/edit#heading=h.3f96t1973epx) and [Psychological Safety script](https://docs.google.com/document/d/18Q9uand09WHwiWZO21A9rD6S-3953CqP0v-xEj-xSCg/edit#heading=h.skek14hxa5vk)
-    
-
------ TODO:
-- If running out of time, switch to round table mode.

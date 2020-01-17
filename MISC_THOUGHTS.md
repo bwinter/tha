@@ -43,6 +43,12 @@ I think there might be a framework where we have a set of GREEN.md and RED.md do
     - Ice breaker game - e.g. “Half animal” on a pos-it note that someone else finishes.
     - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
 
+
+
+Remember all the positive experiences the team spoke about.
+
+Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
+
 #### Two Taco Problem
 I learned about this concept a from Fred Krone who learned it from a
 facilitation training. (I have done some research that appears to have led back
