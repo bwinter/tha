@@ -8,7 +8,6 @@
   - Draw a virtual table and place people around it.
   - Pronouncing new names can be extremely hard, apologize in advance and push on.
   
-- Have all reds hold up, all greens, all yellows.
 
 ## Meeting
 
@@ -38,6 +37,7 @@ For secondaries / shadows
 - If fully, remote:
   - Ask folks to update their names.
   - Ask folks to close Slack and other messaging tools. (Qualify with common exceptions.)
+  - Don’t bring devices.
   - Ask folks to turn off their camera when doing other things.
 
 - If at any time you have questions, raise your hand or use point of order sign.
@@ -66,23 +66,21 @@ For secondaries / shadows
 ### Ground Rules:
 - Feeling comfortable to raise concerns is a sign of a healthy team.
 
+- Listen deeply enough to be changed.
+
 - The Team Health Assessment only works if we feel “psychologically safe."
   - This means that we agree that there will be no retaliation for things discussed, and team members will not be punished or humiliated for speaking up with ideas, questions, concerns or mistakes.
 
-- Some things to help with that:
+- Some things to help support psychological safety:
     - During discussion, everyone should try their best to speak using I/Me statements, and should minimize their references to other peoples' thoughts and actions.
     - Avoid minimizing team mate's statements.
         - e.g. use “yes, and” language rather than “yes, but”s or “no”s.
     - 1 voice at a time:
     - Wiggly fingers or knocking for agreement.
     - Thumbs up for praise.
+    - Be present and use your active listening skills.
 
 - And finally, we all agree to the fundamental rule of retrospectives: we believe that everyone has performed to the best of their abilities with the information they had.
-
-- Use your active listening skills.
-  - Be present.
-  - Don’t bring devices.
-- Listen deeply enough to be changed.
 
 - [ ] Take a deep breath before we dive into the voting round.
 
@@ -90,24 +88,28 @@ For secondaries / shadows
 - [ ] Explain (Read checklist.)
     - [ ] Voting Round
         - We will be using multiple metrics designed to drive useful discussions.
-        - We will read the metric and its *positive* and *negative* statements.
+        - I will read the metric and its *positive* and *negative* statements.
         - We will take a moment to ensure everyone understands the meaning of the statements.
             - We will give 1 to 1.5 minute to reflect on how each metric and accompanying statements make you feel.
             - Raise your hand if you need more time or have a question.
             - These questions are intentionally wishy-washy, try to “lean into them”.
-            - It is okay for everyone to interpret metrics differently.
+            - It is okay (possibly prefereable) for everyone to interpret metrics differently.
             - To help retain novel thoughts, consider creating some notes.
             - Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
                 - Use colored post-its to help facilitators see your vote.
+                - Experiment: Have all reds hold up, all greens, all yellows for
+                  counting.
 
-    - We will repeat this process for the rest of the metrics
-    - After all metrics are done, we will take a deep breath (to help stay relaxed) and then take a short break.
+    - [ ] We will repeat this process for the rest of the metrics
+    - [ ] After all metrics are done, we will take a deep breath and then take a short break.
     - [ ] Any questions about what has been said so far?
 
 - [ ] Collect Metrics (run list above for every metric)
-- [ ] Request metric sequencing feedback. (anything anyone finds particularly interesting?)
+
+- [ ] Ask if there are any metrics folks find particularly interesting?
     - Compliment sandwich can be useful for red metrics.
     - Starting with a green metric first can help get physic safety up.
+
 - [ ] First deep breath and then 10-minute break.
 
 ### Discussion:
