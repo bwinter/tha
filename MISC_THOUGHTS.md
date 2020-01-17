@@ -1,16 +1,53 @@
 # About
 
-This file contains some thoughts I (Brendan Winter) have run into along my THA facilitation
-journey.
+This file contains some thoughts I have run into along my THA facilitation journey.
 
 It's possible some of this would be better in a Github Issue -- Slack is a good
 way to have a conversation but threads of thought become undescoverable pretty
 quickly. Maybe outcomes need to get moved into here 🤔 -- maybe some things just get
 their 15 min of fame before fading.
 
-#### Identical posit colors makes more animosity.
-I think this is an interesting idea but it is unclear to me how one easily
-counts votes in this context.
+----
+- Interesting idea:
+    - Have people put their ideas on post-its
+    - Ask: “what things do we notice about these” “any patterns” (don’t do reflective listening)
+
+- Use your curiosity to drive Reflective Listening (aka ask questions).
+- Probing questions:
+    - “What is the feeling?”
+    - “Do you feel like you have the freedom to do X?”
+    - “Do you feel like you might suffer negative recourse by saying something?”
+    - “Do you feel like you have space to suggest change?”
+    - Get examples, specifics
+    - Build comfort for being more specific.
+    
+Search for “every day tools” facilitation workshop at pivotal (TODO: I no longer understand this reference.)
+
+I think there might be a framework where we have a set of GREEN.md and RED.md docs that give suggestions for different colored teams. (Suggestions have a tendency to change quite a bit depending on this.)
+
+#### Books I need to look into
+- Amy Edmondson
+- Non-violent communication
+- Sir Francis Bacon
+- Radical Candor - I think this is a book
+
+#### Psych Safety
+
+- I have heard the THA described as a psychological safety tune-up.
+
+- Find ways to build comfort up front, likely through vulnerability.
+    - If there is an LL have them admit some mistake.
+    - Possibly the same for other team member in position of power - e.g. anchor or pm
+
+- Breaking ice:
+    - Ice breaker game - e.g. “Half animal” on a pos-it note that someone else finishes.
+    - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
+
+
+
+Remember all the positive experiences the team spoke about.
+
+Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
 
 #### Two Taco Problem
 I learned about this concept a from Fred Krone who learned it from a
@@ -49,3 +86,4 @@ there is a huge difference between how people see this process. Some have a
 detailed view, some have very high level views; some focus more on different
 aspects of the process. The variants are very large. Thus showing how, even
 something simple can be seen very differently from different perspectives.
+
