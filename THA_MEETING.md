@@ -1,28 +1,25 @@
-# About
-
-- These are general suggestions, feel free to add or drop them as necessary.
-- This is in beta form so there are still some implicit things I (Brendan Winter) "understand" but haven't made explicitly clear. Apologies!
-- This is a living document, please make improvements!
-
-Things to keep in mind:
-- [ ] Put Streatchly on break (or other notifications)
+- [ ] Put Streatchly on break (and other notifications)
 - [ ] Silence phone
-- Use your curiosity to drive Reactive Listening (This is a concept taken from Andrew Edstrom.)
+
+- Use your curiosity to drive Reactive Listening (aka ask questions).
 
 - Techniques for managing participant names:
-  - Draw a virtual table and place people around it.
   - Remember, Zoom order can change.
+  - Draw a virtual table and place people around it.
   - Pronouncing new names can be extremely hard, apologize in advance and push on.
 
 - Breaking ice:
-  - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easiert to come up with, is less competative and still gets conversation going.
+  - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
+
+---- Have all reds hold up, all greens, all yellows.
 
 ## Meeting
 
 For secondaries / shadows
 - Summarize discussion
-- Help keep track of time
+- Help keep track of time (45 seconds for voting)
 - Counting votes
+- Parking lot / Action Items
 
 ### Summary (TODO: Linksify)
 - Setup

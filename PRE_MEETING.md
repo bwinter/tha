@@ -1,39 +1,34 @@
-# NOTES:
-
-TODO: Find a good place for this.
-- Review team THA
-- Remember to add a zoom to the calendar invite.
-- Spend a moment to study team member names.
-
 # Short blurb for calendar invite.
 This meeting is to ensure the team representatives understand the exercise and its value, and that the facilitator understands the existing team dynamics.
 
-As a primer for the prior: the goal of a THA is to have a quality, pointed discussion with your entire team about systemic topics related to team health. It is not populate the THA scorecard or gloss over issues.
+The goal of a THA is to have a quality, pointed discussion with the entire team about systemic topics related to team health. It is not populate the THA scorecard or gloss over issues.
 
 # Meeting agenda
 
-- What were prior outcomes?
-    - Action items
-    - Colors for various metrics (it’s not important to compare, but it can be useful to learn more about the team.)
-    - Possibly more important is to check the notes.
-    - It might be valuable to have an “inside person”, someone who can throw a red to help make it okay to do so. One challenge of these meetings is poor psych safety can lead to green-washing.
+- [ ] Intros
 
-- [ ] Are there are any changes from the last THA you would like to see?
+- [ ] Ask if others have any questions or comments.
 
-- [ ] Do you want a leadership representative to participate, shadow, or skip the exercise?
-    - LL as default
+- [ ] Ask for a quick overview of the prior THA?
 
-- [ ] Know composition of team / who has been in a previous THA, how long have they been on the team? Basically pre, intro. Names are probably not even important here.
-- [ ] Are there any particularly talkative or quiet folks?
+- [ ] Are there are any changes from the last THA they would like to see?
+    - Review the [recommended metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700) (and optional metrics).
+
+- [ ] What is a rough composition of team?
+    - Who has been in a previous THA?
+    - How long have they been on the team?
 
 - [ ] What is your understanding of psychological safety on the team currently?
 
-- [ ] Is there anything you are worried about?
-
 - [ ] Is there anything you hope will come up?
 
-- [ ] Ask the team representatives to forward the [THA Getting Started document](https://docs.google.com/document/d/1h34W05UgqHF935SNWxZK8hoSBYK-w3-wBwSPPr1FpD8/edit) to their team to read before the THA.
+- [ ] Is there anything you are worried about?
 
-- [ ] Review the [recommended metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700) with the team representatives and work with them to customize them if need be.
+- [ ] Do you want a leadership representative to participate, shadow, or skip the exercise?
 
-- [ ] Meeting space? (Conference / Remote?) TODO: Find a place for this.
+## Logistics
+
+- [ ] Meeting space? (Conference / Remote?)
+
+- [ ] Have folks new to THA read the [THA Getting Started Guide](https://docs.google.com/document/d/1h34W05UgqHF935SNWxZK8hoSBYK-w3-wBwSPPr1FpD8/edit). 
+
