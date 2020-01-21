@@ -20,7 +20,7 @@ their 15 min of fame before fading.
     - “Do you feel like you have space to suggest change?”
     - Get examples, specifics
     - Build comfort for being more specific.
-    
+
 Search for “every day tools” facilitation workshop at pivotal (TODO: I no longer understand this reference.)
 
 I think there might be a framework where we have a set of GREEN.md and RED.md docs that give suggestions for different colored teams. (Suggestions have a tendency to change quite a bit depending on this.)
@@ -42,8 +42,6 @@ I think there might be a framework where we have a set of GREEN.md and RED.md do
 - Breaking ice:
     - Ice breaker game - e.g. “Half animal” on a pos-it note that someone else finishes.
     - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
-
-
 
 Remember all the positive experiences the team spoke about.
 
