@@ -8,6 +8,7 @@
     - 1.5 minutes for voting and notes
     - 45 min max for set of metrics
     - 10 min breaks between metrics
+        (remember sometimes when returning zoom windows stay black)
 
 ## Before Meeting Starts
 - [ ] Put Streatchly on break (and other notifications)
