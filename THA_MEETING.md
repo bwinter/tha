@@ -68,8 +68,8 @@
 - I will read each metric and its *positive* and *negative* statements.
 - We will take a moment to ensure everyone understands.
 
-- 1.5 minutes to reflect on each metric.
-- To help retain novel thoughts, consider creating some notes.
+- Everyone individually will take 1.5 minutes to reflect on each metric.
+- To help retain novel thoughts, consider creating some notes. (If possible include vote.)
 - Raise your hand if you need more time or have a question.
 - Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
     - Post-its or Roman
