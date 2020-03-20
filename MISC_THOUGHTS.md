@@ -31,6 +31,11 @@ I think there might be a framework where we have a set of GREEN.md and RED.md do
 - Sir Francis Bacon
 - Radical Candor - I think this is a book
 
+#### Power Point / Miro
+- Some way to help make the way we do the voting more obvious.
+- Make something like a power point presentation so people can see what I am
+  reading.
+
 #### Psych Safety
 
 - I have heard the THA described as a psychological safety tune-up.
