@@ -11,7 +11,7 @@
         (remember sometimes when returning zoom windows stay black)
 
 ## Before Meeting Starts
-- [ ] Put Streatchly on break (and other notifications)
+- [ ] Put Stretchly on break (and other notifications)
 - [ ] Silence phone
 - [ ] Create a virtual table or list and place people around it or in it.
     - Useful for tracking who discusses first.
@@ -25,7 +25,7 @@
 
 - If fully, remote:
   - Update Zoom names.
-  - Close or silence messaging tools. (Qualify with common exceptions.)
+  - Close or silence messaging tools, eg slack, email. (Qualify with common exceptions.)
   - Ask folks to turn off their camera when doing other things.
 
 ## Description:
@@ -33,27 +33,57 @@
 
 - The goal of a THA is discussion and identification, not problem solving.
 
-- The THA facilitator working group has identified a set of questions that asses team heath.
+- We'll be covering a set of metrics chosen by the facilitators and team representatives that help assess team heath.
 
 - Format is roughly:
-    - I read a metric and, two accompanying *positive* and *negative* examples.
+    - I read a metric and its accompanying *positive* and *negative* statements.
     - Everyone takes a minute to reflect on what was read.
         - Notes
         - Voting
-    - We show votes as a group and tally.
+    - [if not using a form] We show votes as a group and tally.
     - We do this for every metric first.
-    - After we vote on every metric we will do a round-robin discuss.
+    - After we vote on every metric we will do a round-robin discussion.
 
 - Anti-goals:
     - Trying to get all green, a healthy team will surface issues.
-    - Thinking of it as a scored test, there are no "correct" answers - opinions and feelings.
+    - Thinking of it as a scored test, there are no "correct" answers - just opinions and feelings.
 
-- We are taking notes but we will keep them anonymous and will let you share them as you choose.
+- We are taking notes but we will keep them anonymous.
 
 - For the sake of time, if we get stuck on a topic, we will use a “Parking Lot” for items that the team can come back to after the THA.
   - (We will make sure there is an owner who will ensure the item gets stored somewhere.)
 
-## Psychologicaly Safe Space:
+## Psychologically Safe Space:
+### Ground Rules
+
+#### Do What’s Right
+
+    - One voice at a time
+    - Practice being present
+    - Discussion is private and non-attributable
+    - Respect the breaks
+  
+#### Do What Works
+
+    - No devices
+    - Speak your mind, pass if you want
+    - Use your tools and hand signals
+    - We may move on
+  
+#### Be Kind
+
+    - Listen deeply enough to be changed
+    - Speak from the “I” perspective
+    - “Yes, and…” over “Yes, but…”
+    
+- Feedback and questions are welcome
+
+### Psychological Safety
+The Team Health Assessment only works if we collectively establish this as a space with “psychological safety.” This means that we agree that there will be no retaliation for things discussed, and team members will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes.
+
+During discussion, everyone should speak using I/Me statements, and should minimize their references to other people’s thoughts and actions. And finally, we all agree to the fundamental rule of retrospectives: we believe that everyone has performed to the best of their abilities with the information they had.”
+
+### Bullet version
 - Don't retaliate, punish or humiliate team members for speaking up with ideas, questions or concerns.
 - Remember that everyone has performed to the best of their abilities with the information they had.
 - Be present and use your active listening skills.
@@ -71,7 +101,7 @@
 - Everyone individually will take 1.5 minutes to reflect on each metric.
 - To help retain novel thoughts, consider creating some notes. (If possible include vote.)
 - Raise your hand if you need more time or have a question.
-- Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
+- [if not using a form] Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
     - Post-its or Roman
 
 - [ ] Any questions?
@@ -79,16 +109,17 @@
 - [ ] Collect Metrics (run list above for every metric)
 
 ## Discussion
-- I will read a each metric and accompanying statements aloud again.
-- We will then do a round robbin discussion for each.
-- During the discussion round, try not to say “pass”. In stead, restate what you agree with.
-- We will take 10ish minute breaks periodically for refreshments, restrooms and deep breaths.
+- I will read the next metric and its accompanying statements aloud again.
+- We will then do a round robin discussion where each person gets an opportunity to share.
+- During the discussion round, try not to say “pass”. Instead, restate what you agree with.
+  - It's good to say "What <Johnny> said about <something> really resonated with me."
+  - It's also okay to say "I agree with what others have said and don't have anything else to add."
+- We will take 10ish minute breaks periodically for refreshments, restrooms, and deep breaths.
 
 - Any questions?
 
-## Finsished
+## Finished
 - [ ] Take a deep breath and congratulate everyone, thanking them for all their input.
-
 - [ ] Any questions? (Can also Slack or email me.)
 - [ ] There are also [Optional metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700) if you would like to take a look?
 
