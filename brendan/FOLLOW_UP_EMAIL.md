@@ -3,9 +3,9 @@
 ```
 - Thank you / back pat for participation
 
-Feedback for James and I, liked, learnded, longed for, lacked.
+Feedback for James and I, liked, learned, longed for, lacked.
 
-Alternatively, if you were someone who saw a metric that was confusing, I would love a deeper explination of the confusion I could share back with the THA facilitators.
+Alternatively, if you were someone who saw a metric that was confusing, I would love a deeper explanation of the confusion I could share back with the THA facilitators.
 
 Feedback wanted for the confusing metrics:
 
