@@ -121,7 +121,7 @@ During discussion, everyone should speak using I/Me statements, and should minim
 - I will read the next metric and its accompanying statements aloud again.
 - We will then do a round robin discussion where each person gets an opportunity to share.
 - During the discussion round, try not to say “pass”. Instead, restate what you agree with.
-  - It's good to say "What <Johnny> said about <something> really resonated with me."
+  - It's good to say "What [Johnny] said about [something] really resonated with me."
   - It's also okay to say "I agree with what others have said and don't have anything else to add."
 - We will take 10ish minute breaks periodically for refreshments, restrooms, and deep breaths.
 
