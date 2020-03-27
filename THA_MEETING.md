@@ -27,6 +27,10 @@
   - Update Zoom names.
   - Close or silence messaging tools, eg slack, email. (Qualify with common exceptions.)
   - Ask folks to turn off their camera when doing other things.
+  - Hand signals for today: agreement and requests for clarification
+  - With a group this size and the time constraint, it’s okay to “agree” and say you don’t have more to add to this point.
+    - Please be mindful about being concise so more space is opened up for your teammates to share and we can cover more of the metrics.
+
 
 ## Description:
 - THA is very much like a retrospective in that it gives the team an opportunity to iterate on process and build empathy.
