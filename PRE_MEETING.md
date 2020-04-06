@@ -1,6 +1,6 @@
-# Pre-Meeting
+# Before to the Pre-Meeting
 
-- [ ] Ask for and review the prior THA.
+- [ ] Ask for and review any prior THA artifacts.
 
 ## Intro and short blurb for calendar invites
 
