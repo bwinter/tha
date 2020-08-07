@@ -44,4 +44,10 @@ This is also a chance for co-facilitators to align on goals.
   - If time permits, consider doing this in pre-meeting.
   - [recommended metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700)
 
+- [ ] Consider:
+    - Adding metric “Reality Fatigue (things to consider: covid, political realities, summer vacay, kids, acquisition, home / work environment)”.
+        - Good psych safety priming to make first metric.
+
+    - Create a post THA meeting to work through the action items.
+
 - [ ] Assign [THA Getting Started Guide](https://docs.google.com/document/d/1h34W05UgqHF935SNWxZK8hoSBYK-w3-wBwSPPr1FpD8/edit).
