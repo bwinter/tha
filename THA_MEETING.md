@@ -44,6 +44,7 @@
   - Everyone takes a minute to reflect on what was read.
     - Notes
     - Voting
+      - “Only pick meh if it doesn’t apply.” -- If it’s not perfect, it's worth discussing.
   - [if not using a form] We show votes as a group and tally.
   - We do this for every metric first.
   - After we vote on every metric we will do a round-robin discussion.
