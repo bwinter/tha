@@ -3,7 +3,7 @@
 This file contains some thoughts I have run into along my THA facilitation journey.
 
 It's possible some of this would be better in a Github Issue -- Slack is a good
-way to have a conversation but threads of thought become undescoverable pretty
+way to have a conversation but threads of thought become undiscoverable pretty
 quickly. Maybe outcomes need to get moved into here 🤔 -- maybe some things just get
 their 15 min of fame before fading.
 
@@ -21,7 +21,7 @@ their 15 min of fame before fading.
     - Get examples, specifics
     - Build comfort for being more specific.
 
-Search for “every day tools” facilitation workshop at pivotal (TODO: I no longer understand this reference.)
+Search for “every day tools” facilitation workshop at pivotal (I forgot to get a link for this.)
 
 I think there might be a framework where we have a set of GREEN.md and RED.md docs that give suggestions for different colored teams. (Suggestions have a tendency to change quite a bit depending on this.)
 
@@ -46,11 +46,13 @@ I think there might be a framework where we have a set of GREEN.md and RED.md do
 
 - Breaking ice:
     - Ice breaker game - e.g. “Half animal” on a pos-it note that someone else finishes.
-    - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less competative and still gets conversation going.
+    - Something not interesting about self. (I wish I had saved this article.) Generically, something not interesting is easier to come up with, is less i and still gets conversation going.
 
 Remember all the positive experiences the team spoke about.
 
 Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
+
+Remember: this meeting is hard work. Participants should be given regular praise for engaging.
 
 #### Two Taco Problem
 I learned about this concept a from Fred Krone who learned it from a
@@ -60,16 +62,16 @@ to the creator (Link TODO)).
 In short, two or more humans are prone to *think* they are talking about the *"same"* thing when in fact, they are not.
 In actuality, talking about the same concept is essentially impossible. Our perceptions of reality are subtly different
 given the diverse contexts we bring to the table. This can also lead to
-missunderstandings and communication breakdown when people who believe they are
+misunderstandings and communication breakdown when people who believe they are
 talking about the same thing disagree on something they hold differently in
 their minds.
 
 The "two taco" description is overly simplified to the point where you
-need to understand the concept before it becomes a useful memonic. Essentially,
+need to understand the concept before it becomes a useful mnemonic. Essentially,
 if two people think they are talking about the same type of taco they might not
-be and it is possible this could lead to a missunderstanding -- which of course
+be and it is possible this could lead to a misunderstanding -- which of course
 is often a source of conflict. (Hard to imagine how tacos would lead to conflict
-but this is a memonic not an actual example.)
+but this is a mnemonic not an actual example.)
 
 An example I have seen was when two individuals attempted to run an SRE style D&D based
 on an actual incident. However they never fully coordinated on the bug they wanted to discuss.
