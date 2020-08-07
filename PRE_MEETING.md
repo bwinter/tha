@@ -34,6 +34,8 @@ This is also a chance for co-facilitators to align on goals.
 
 ## Logistics
 
+- [ ] Could you make the second half of the day a freedom day? (energy drain / reflection)
+
 ### How
 
 - [ ] Meeting space? (Conference / Remote?)
