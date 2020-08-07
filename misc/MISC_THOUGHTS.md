@@ -40,6 +40,8 @@ I think there might be a framework where we have a set of GREEN.md and RED.md do
 
 - I have heard the THA described as a psychological safety tune-up.
 
+- Vulnerability: The quality or state of being exposed to the possibility of being attacked, harmed either physically or emotionally.
+
 - Find ways to build comfort up front, likely through vulnerability.
     - If there is an LL have them admit some mistake.
     - Possibly the same for other team member in position of power - e.g. anchor or pm
@@ -53,6 +55,9 @@ Remember all the positive experiences the team spoke about.
 Even if you uncovered negative feelings, notice the team was strong enough to discuss them.
 
 Remember: this meeting is hard work. Participants should be given regular praise for engaging.
+
+Things to focus on:
+- Giving quiet voices more space.
 
 #### Two Taco Problem
 I learned about this concept a from Fred Krone who learned it from a
@@ -92,3 +97,8 @@ detailed view, some have very high level views; some focus more on different
 aspects of the process. The variants are very large. Thus showing how, even
 something simple can be seen very differently from different perspectives.
 
+#### Cool Pivotal Training:
+- https://practices.cfapps.io/
+- https://sites.google.com/pivotal.io/3pi
+- https://docs.google.com/document/d/1MVfC3PipGkBYkPXQ8MmBGip6YAQRfUTriHlVz8U3FkI/edit
+- https://docs.google.com/forms/d/e/1FAIpQLSecD-aJZMp5xeor15ZLhGTEpHv44JsevQAtrNHk6V9aCWoYQA/viewform?pli=1
