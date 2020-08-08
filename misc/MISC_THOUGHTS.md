@@ -102,3 +102,29 @@ something simple can be seen very differently from different perspectives.
 - https://sites.google.com/pivotal.io/3pi
 - https://docs.google.com/document/d/1MVfC3PipGkBYkPXQ8MmBGip6YAQRfUTriHlVz8U3FkI/edit
 - https://docs.google.com/forms/d/e/1FAIpQLSecD-aJZMp5xeor15ZLhGTEpHv44JsevQAtrNHk6V9aCWoYQA/viewform?pli=1
+
+
+-----------------
+What I want to learn:
+
+Room Management
+- Would love tools for enforcing rules and norms without embarrassing participants.
+- Managing tangents
+
+Removing Blockers:
+- Managing over-talkers
+- Practice - D&D on difficult conversations
+
+New facilitators:
+- Wondering if there are practice THAs?
+
+Followup work:
+- Active participant?
+
+Notes:
+
+How to feel less siloed:
+- Working alone w/o any real feedback / learnings from other facilitators.
+
+Burnout:
+- How to feel less like we are operating in the margin.
