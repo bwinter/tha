@@ -34,7 +34,9 @@ This is also a chance for co-facilitators to align on goals.
 
 ## Logistics
 
-- [ ] Could you make the second half of the day a freedom day? (energy drain / reflection)
+- Does it make sense to share THA results with leadership?
+
+- [ ] Consider making the second half of the day a freedom day.
 
 ### How
 
