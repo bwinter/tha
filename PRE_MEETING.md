@@ -34,7 +34,7 @@ This is also a chance for co-facilitators to align on goals.
 
 ## Logistics
 
-- Does it make sense to share THA results with leadership?
+- [ ] Does it make sense to share THA results with leadership?
 
 - [ ] Consider making the second half of the day a freedom day.
 
