@@ -2,7 +2,7 @@
 
 ## Secondaries (and Shadows)
 
-- Summarize discussion
+- Summarize discussion in notes
 - Track Parking lot / Action Items
 - Count votes
 - Help keep track of time:
@@ -17,6 +17,14 @@
 - [ ] Silence phone
 - [ ] Create a virtual table or list and place people around it or in it.
   - Useful for tracking who discusses first.
+
+## Agenda
+
+- Introductions
+- Description
+- Ground Rules
+- Voting
+- Discussion
 
 ## Introductions
 
@@ -35,8 +43,6 @@
 
 - THA is very much like a retrospective in that it gives the team an opportunity to iterate on process and build empathy.
 
-- The goal of a THA is discussion and identification, not problem solving.
-
 - We'll be covering a set of metrics chosen by the facilitators and team representatives that help assess team heath.
 
 - Format is roughly:
@@ -52,6 +58,7 @@
 - Anti-goals:
   - Trying to get all green, a healthy team will surface issues.
   - Thinking of it as a scored test, there are no "correct" answers - just opinions and feelings.
+  - Problem solving, the goal of a THA is discussion and identification.
 
 - We are taking notes but we will keep them anonymous.
 
@@ -100,7 +107,7 @@ During discussion, everyone should speak using I/Me statements, and should minim
 - Use “yes, and” language rather than “no” or “but”.
 - 1 voice at a time: if you agree, use Wiggly fingers.
 
-- Any questions?
+- [ ] Any questions?
 
 ## Voting
 
@@ -108,9 +115,9 @@ During discussion, everyone should speak using I/Me statements, and should minim
 - We will take a moment to ensure everyone understands.
 
 - Everyone individually will take 1.5 minutes to reflect on each metric.
-- To help retain novel thoughts, consider creating some notes. (If possible include vote.)
+- To help retain novel thoughts, consider creating some notes - include vote.
 - Raise your hand if you need more time or have a question.
-- [if not using a form] Finally we will ask everyone to show how they voted and will record these votes on the worksheet.
+- [if not using a form] Finally we will ask everyone how they voted and will record these votes on the worksheet.
   - Post-its or Roman
 
 - [ ] Any questions?
@@ -126,12 +133,12 @@ During discussion, everyone should speak using I/Me statements, and should minim
   - It's also okay to say "I agree with what others have said and don't have anything else to add."
 - We will take 10ish minute breaks periodically for refreshments, restrooms, and deep breaths.
 
-- Any questions?
+- [ ] Any questions?
 
 ## Finished
 
 - [ ] Take a deep breath and congratulate everyone, thanking them for all their input.
-- [ ] Any questions? (Can also Slack or email me.)
+- [ ] Any questions? (Can also Slack or email.)
 - [ ] There are also [Optional metrics](https://docs.google.com/spreadsheets/d/1d98EX4P0dyl99Pd9jJN6nZ4QvBm0GIKhD2RZkgnF03w/edit#gid=1805229700) if you would like to take a look?
 - [ ] Remind team leadership that they can schedule the next THA now.
 
@@ -142,14 +149,6 @@ During discussion, everyone should speak using I/Me statements, and should minim
 ## Things to keep in mind
 
 - Remember to ask if folks have questions
-
-## Agenda
-
-- Introductions
-- Description
-- Ground Rules
-- Voting
-- Discussion
 
 ## Answers to Common questions
 
@@ -166,7 +165,7 @@ During discussion, everyone should speak using I/Me statements, and should minim
 - A: Yes, try to “lean into them”.
 
 - Q: Is it possible for everyone to interpret metrics differently?
-- A: Yes, it's preferable.
+- A: Yes, the intention is to draw out novel perspectives.
 
 ## TODO
 
